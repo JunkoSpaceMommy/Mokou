@@ -1,0 +1,35 @@
+{
+    "_id":"683fc5f85fbd6fe82f01ca86",
+    "_name": "moko hand",
+    "_parent": "5cc086a314c02e000c6bea69",
+    "_type": "Item",
+    "_props": {
+      "Name": "moko hand",
+      "ShortName": "moko hand",
+      "Description": "moko hand",
+      "Side": [
+        "Usec"
+      ],
+      "BodyPart": "Hands",
+      "Prefab": {
+        "path": "clothes/moko_hand.bundle",
+        "rcid": ""
+      },
+      "WatchPrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "IntegratedArmorVest": false,
+      "WatchPosition": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "WatchRotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "_proto": "5cdea33e7d6c8b0474535dac"
+  }

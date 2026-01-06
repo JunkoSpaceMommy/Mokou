@@ -1,0 +1,35 @@
+{
+    "_id":"683fc5f85fbd6fe82f01ca88",
+    "_name": "moko lower",
+    "_parent": "5cc0869814c02e000a4cad94",
+    "_type": "Item",
+    "_props": {
+      "Name": "moko lower",
+      "ShortName": "moko lower",
+      "Description": "moko lower",
+      "Side": [
+        "Usec"
+      ],
+      "BodyPart": "Feet",
+      "Prefab": {
+        "path": "clothes/moko_lower.bundle",
+        "rcid": ""
+      },
+      "WatchPrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "IntegratedArmorVest": false,
+      "WatchPosition": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "WatchRotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "_proto": "5cdea33e7d6c8b0474535dac"
+  }
